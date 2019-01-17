@@ -1,13 +1,12 @@
 <div>
-  {% for item in site.data.arduboy_games %}
-    <div class="game_record">
-      <img src="{{ item.image }}" alt="{{ item.name }}" align="middle">
-      &nbsp;
-      <a href="{{ item.page }}"> {{ item.name }} </a>
-      <div class="vl"></div>
-      {{ item.blurb }}
-      <div class="vl"></div>
-      <a href="{{ item.release }}"> Download </a>
-    </div>
+  <table> 
+    {% for item in site.data.arduboy_games %}
+    <tr class="game_record">
+      <th><img src="{{ item.image }}" alt="{{ item.name }}" align="middle"></th>
+      <th><a href="{{ item.page }}"> {{ item.name }} </a></th>
+      <th>{{ item.blurb }}</th>
+      <th><a href="{{ item.release }}"> Download </a></th>
+    </tr>
   {% endfor %}
+  </table>
 </div>
