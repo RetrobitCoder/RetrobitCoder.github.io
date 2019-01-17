@@ -2,7 +2,9 @@
   {% for item in site.data.arduboy_games %}
     <div class="game_record">
       <img src="{{ item.image }}" alt="{{ item.name }}">
-      {{ item.name }}
+        <div class="game_title">
+          {{ item.name }}
+        </div>
   </div>
   {% endfor %}
 </div>
