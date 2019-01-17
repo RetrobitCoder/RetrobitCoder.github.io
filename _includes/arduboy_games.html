@@ -2,6 +2,7 @@
   {% for item in site.data.arduboy_games %}
     <div class="game_record">
       <img src="{{ item.image }}" alt="{{ item.name }}" align="middle">
+      {{ item.blurb }}
       <a href="{{ item.page }}"> {{ item.name }} </a>
       <a href="{{ item.release }}"> Download </a>
     </div>
