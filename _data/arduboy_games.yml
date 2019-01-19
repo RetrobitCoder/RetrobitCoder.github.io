@@ -3,3 +3,8 @@
   blurb: A 2 player dog themed pong-like game
   release: https://github.com/RetrobitCoder/Bounce/releases
   page: /Bounce
+- name: TechnoMonkey
+  image:
+  blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
+  release: https://github.com/RetrobitCoder/TechnoMonkey
+  page: /TechnoMonkey
