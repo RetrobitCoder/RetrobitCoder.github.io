@@ -8,3 +8,8 @@
   blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
   release: https://github.com/RetrobitCoder/TechnoMonkey
   page: /TechnoMonkey
+- name: BitWars
+  image:
+  blurb: Space shooter learning game where you need to build the correct answer to bit operations
+  release: https://github.com/RetrobitCoder/BitWars
+  page: /BitWars
