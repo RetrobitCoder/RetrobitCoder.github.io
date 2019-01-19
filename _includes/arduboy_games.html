@@ -3,7 +3,7 @@
     {% for item in site.data.arduboy_games %}
     <tr class="game_record">
       <th class="game_record"><img src="{{ item.image }}" alt="{{ item.name }}" align="middle"></th>
-      <th class="game_record"><a href="{{ item.page }}"> {{ item.name }} </a></th>
+      <th class="game_record"><a href="{{ site.github.url }}{{ item.page }}"> {{ item.name }} </a></th>
       <th class="game_record">{{ item.blurb }}</th>
       <th class="game_record"><a href="{{ item.release }}"> Download </a></th>
     </tr>
