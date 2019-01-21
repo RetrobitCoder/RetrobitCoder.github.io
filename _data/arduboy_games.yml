@@ -9,7 +9,7 @@
   release: https://github.com/RetrobitCoder/TechnoMonkey
   page: /TechnoMonkey
 - name: BitWars
-  image:
+  image: "assets/images/BitWars.png"
   blurb: Space shooter learning game where you need to build the correct answer to bit operations
   release: https://github.com/RetrobitCoder/BitWars
   page: /BitWars
