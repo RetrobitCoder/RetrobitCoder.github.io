@@ -11,5 +11,5 @@
 - name: BitWars
   image: "assets/images/BitWars.png"
   blurb: Space shooter learning game where you need to build the correct answer to bit operations
-  release: https://github.com/RetrobitCoder/BitWars
+  release: https://github.com/RetrobitCoder/BitWars/releases
   page: /BitWars
