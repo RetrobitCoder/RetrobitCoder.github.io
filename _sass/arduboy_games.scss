@@ -3,9 +3,18 @@
 .game_record {
  margin: auto;
  width: 50vw;
- border: 1px solid black;
+ border: 1px solid #00040C;
  padding: 10px;
  white-space: nowrap;
+ color: #00040C;
+}
+
+.game_link:link {
+  color: #061A3F
+}
+
+.game_link:visited {
+  color: #7284A3
 }
 
 div {
