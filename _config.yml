@@ -1,1 +1,7 @@
-theme: jekyll-theme-midnight
+plugins:
+  - jekyll-seo-tag
+title: RetrobitCoder
+description: Personal website for Zachariah Falgout
+twitter:
+  username: retrobitcoder
+  card: summary
