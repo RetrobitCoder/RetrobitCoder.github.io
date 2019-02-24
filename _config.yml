@@ -2,6 +2,13 @@ plugins:
   - jekyll-seo-tag
 title: RetrobitCoder
 description: Personal website for Zachariah Falgout
+logo:
+  /assets/RetrobitCoder-Banner.png
+social:
+  name: Zachariah Falgout
+  links:
+    - https://twitter.com/retrobitcoder
+    - https://github.com/retrobitcoder
 twitter:
   username: retrobitcoder
   card: summary
