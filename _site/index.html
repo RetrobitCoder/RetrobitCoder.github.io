@@ -2,14 +2,19 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/arduboy_games.css">
+    <title>RetrobitCoder</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
     <img src="/assets/images/RetrobitCoder-Banner.png" style="display: block; margin-left: auto; margin-right: auto; width: 50vw; height: 25vw;">
-    <h1>{{ page.title }}</h1>
-    {% include navigation.html %}
-    {{ content }}
-    {% include arduboy_games.html %}
+    <nav>
+  
+    <a href="/" class="current">Home</a>
+  
+    <a href="/arduboy_games.html" >Arduboy Games</a>
+  
+</nav>
+
+    
   </body>
 </html>
