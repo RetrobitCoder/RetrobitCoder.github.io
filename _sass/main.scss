@@ -39,6 +39,13 @@ h1 {
  text-align: center;
 }
 
+.div2 {
+  float: left;
+  height: auto;
+  color: #00040C;
+  width: 25vw;
+}
+
 .current {
   background-color: #7284A3;
 }
@@ -49,6 +56,10 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #00040C;
+}
+
+.ul2 {
+  background-color: #ECECEC;
 }
 
 li {
