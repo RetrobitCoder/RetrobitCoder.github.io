@@ -64,4 +64,4 @@ li a { display: block; color: #ECECEC; text-align: center; padding: 14px 16px; t
 
 .game_link:visited { color: #7284A3; }
 
-div { height: auto; background-color: #ECECEC; }
+div { float: left; height: auto; background-color: #ECECEC; }
