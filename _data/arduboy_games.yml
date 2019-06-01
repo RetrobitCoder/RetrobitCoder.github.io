@@ -13,3 +13,8 @@
   blurb: Space shooter learning game where you need to build the correct answer to bit operations
   release: https://github.com/RetrobitCoder/BitWars/releases
   page: /BitWars
+  name: MouseEscape
+  image: "assets/images/MouseEscape.png"
+  blurb: Survival game where you must collect as much food as you can and avoid being eaten by snakes
+  release: https://github.com/RetrobitCoder/MouseEscape/releases
+  page: /MouseEscape
