@@ -60,10 +60,6 @@ li a { display: block; color: #ECECEC; text-align: center; padding: 14px 16px; t
 .fa-itch-io { background: #00040C; color: #ECECEC; }
 
 @media screen and (max-width: 1090px) { th { display: block; } }
-a:link { color: #061A3F; }
-
-a:visited { color: #7284A3; }
-
 .game_record { margin: auto; width: auto; border: 1px solid #00040C; padding: 10px; color: #00040C; }
 
 .game_link:link { color: #061A3F; }
