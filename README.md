@@ -19,3 +19,5 @@ any other info I wish to share.
 New banner image that stretches across top better
 
 Maybe sites page where I link to sites I'm on like Arduboy, Pokkito, etc
+
+Add Java tab and add DiceRoller app
