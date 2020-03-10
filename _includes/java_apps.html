@@ -1,0 +1,12 @@
+<div>
+  <table class="java_app">
+    {% for item in site.data.java_apps %}
+    <tr class="java_app">
+      <th class="java_app"><img src="{{ item.image }}" alt="{{ item.name }}" align="middle"></th>
+      <th class="java_app"><a class="src_link" href="{{ site.github.url }}{{ item.page }}"> {{ item.name }} </a></th>
+      <th class="java_app">{{ item.blurb }}</th>
+      <th class="java_app"><a class="release_link" href="{{ item.release }}"> Download </a></th>
+    </tr>
+  {% endfor %}
+  </table>
+</div>

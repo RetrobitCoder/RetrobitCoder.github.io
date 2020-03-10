@@ -1,0 +1,5 @@
+- name: Dice Roller
+  image: "/assets/images/DiceRoller.png"
+  blurb: Custom dice rolling app
+  release: https://github.com/RetrobitCoder/DiceRoller/releases
+  page: /DiceRoller

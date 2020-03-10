@@ -15,6 +15,11 @@ any other info I wish to share.
 
 \#00040C near black
 
+## Start Jekyll Locally
+bundle exec jekyll serve
+
+Run: http://localhost:4000
+
 ## TODOS
 New banner image that stretches across top better
 

@@ -1,0 +1,35 @@
+@import "main.scss";
+
+@media screen and (max-width: 1090px){
+  th {
+    display: block;
+  }
+}
+
+.java_app {
+ margin: auto;
+ width: auto;
+ border: 1px solid #00040C;
+ padding: 10px;
+ color: #00040C;
+}
+
+.src_link:link {
+  color: #061A3F
+}
+
+.src_link:visited {
+  color: #7284A3
+}
+
+.release_link:link {
+  color: #061A3F
+}
+
+.release_link:visited {
+  color: #7284A3
+}
+
+div {
+  background-color: #ECECEC;
+}
