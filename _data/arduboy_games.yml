@@ -1,20 +1,20 @@
-- name: Bounce
-  image: "/assets/images/Bounce.png"
-  blurb: A 2 player dog themed pong-like game
-  release: https://github.com/RetrobitCoder/Bounce/releases
-  page: /Bounce
-- name: TechnoMonkey
-  image: "assets/images/TechnoMonkey.png"
-  blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
-  release: https://github.com/RetrobitCoder/TechnoMonkey/releases
-  page: /TechnoMonkey
 - name: BitWars
   image: "assets/images/BitWars.png"
   blurb: Space shooter learning game where you need to build the correct answer to bit operations
   release: https://github.com/RetrobitCoder/BitWars/releases
   page: /BitWars
+- name: Bounce
+  image: "/assets/images/Bounce.png"
+  blurb: A 2 player dog themed pong-like game
+  release: https://github.com/RetrobitCoder/Bounce/releases
+  page: /Bounce
 - name: MouseEscape
   image: "assets/images/MouseEscape.png"
   blurb: Survival game where you must collect as much food as you can and avoid being eaten by snakes
   release: https://github.com/RetrobitCoder/MouseEscape/releases
   page: /MouseEscape
+- name: TechnoMonkey
+  image: "assets/images/TechnoMonkey.png"
+  blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
+  release: https://github.com/RetrobitCoder/TechnoMonkey/releases
+  page: /TechnoMonkey

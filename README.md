@@ -22,5 +22,3 @@ Run: http://localhost:4000
 
 ## TODOS
 New banner image that stretches across top better
-
-Maybe sites page where I link to sites I'm on like Arduboy, Pokkito, etc
