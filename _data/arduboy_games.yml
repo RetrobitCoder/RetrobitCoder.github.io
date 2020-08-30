@@ -13,6 +13,11 @@
   blurb: Survival game where you must collect as much food as you can and avoid being eaten by snakes
   release: https://github.com/RetrobitCoder/MouseEscape/releases
   page: /MouseEscape
+- name: Rhythum
+  image: "assets/images/Rhythum.png"
+  blurb: Mobile suit/mecha rhythm like game
+  release: https://github.com/RetrobitCoder/Rhythum/releases/tag/1.0
+  page: /Rhythum
 - name: TechnoMonkey
   image: "assets/images/TechnoMonkey.png"
   blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
