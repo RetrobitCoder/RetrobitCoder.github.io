@@ -1,25 +1,30 @@
+- name: BalancingAct
+  image: "assets/images/arduboy/BalancingAct.png"
+  blurb: Balance falling objects puzzle game
+  release: https://github.com/RetrobitCoder/BalancingAct/releases
+  page: /BalancingAct
 - name: BitWars
-  image: "assets/images/BitWars.png"
+  image: "assets/images/arduboy/BitWars.png"
   blurb: Space shooter learning game where you need to build the correct answer to bit operations
   release: https://github.com/RetrobitCoder/BitWars/releases
   page: /BitWars
 - name: Bounce
-  image: "/assets/images/Bounce.png"
+  image: "/assets/images/arduboy/Bounce.png"
   blurb: A 2 player dog themed pong-like game
   release: https://github.com/RetrobitCoder/Bounce/releases
   page: /Bounce
 - name: MouseEscape
-  image: "assets/images/MouseEscape.png"
+  image: "assets/images/arduboy/MouseEscape.png"
   blurb: Survival game where you must collect as much food as you can and avoid being eaten by snakes
   release: https://github.com/RetrobitCoder/MouseEscape/releases
   page: /MouseEscape
 - name: Rhythum
-  image: "assets/images/Rhythum.png"
+  image: "assets/images/arduboy/Rhythum.png"
   blurb: Mobile suit/mecha rhythm like game
   release: https://github.com/RetrobitCoder/Rhythum/releases/tag/1.0
   page: /Rhythum
 - name: TechnoMonkey
-  image: "assets/images/TechnoMonkey.png"
+  image: "assets/images/arduboy/TechnoMonkey.png"
   blurb: Megaman inspired game where a techno virus has taken over a zoo and you must stop the rampage of the other animals
   release: https://github.com/RetrobitCoder/TechnoMonkey/releases
   page: /TechnoMonkey
